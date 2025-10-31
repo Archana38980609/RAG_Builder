@@ -1,5 +1,5 @@
 [project]
-name = "rag-builder"
+name = "RAG_Builder"
 version = "0.1.0"
 description = "RAG_Builder is a mini Netflix-style project where you build a smart search system. You’ll load a movies dataset, find relevant movies even when the words don’t match exactly, and use an AI model to improve results. The flow is: retrieve matching movies, add that info to a prompt, and generate a clear, helpful answer. You’ll set up the project with uv, keep data out of git, and end with a simple RAG-powered search you can grow later."
 readme = "README.md"
